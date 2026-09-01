@@ -1,5 +1,0 @@
-fastapi
-openpyxl
-pypdf
-rapidfuzz
-python-multipart
